@@ -5,3 +5,5 @@ jenkins
 practice
 email
 we will send whatsapp message
+send email when new inquiry is received
+
