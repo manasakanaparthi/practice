@@ -4,3 +4,4 @@ dev
 jenkins
 practice
 email
+send email when new inquiry is received
